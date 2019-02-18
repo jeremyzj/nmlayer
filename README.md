@@ -1,14 +1,11 @@
 # nmlayer
 
-A new Flutter package project.
+是基于[http](https://pub.dartlang.org/packages/http/versions/0.11.3+16)库，用于轻松实现网络model层(network model layer: nmlayer)的工具
 
-## Getting Started
+## 安装
 
-This project is a starting point for a Dart
-[package](https://flutter.io/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+```
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+```
+
+
